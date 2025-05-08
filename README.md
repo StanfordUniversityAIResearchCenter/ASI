@@ -48,15 +48,26 @@ Artificial Intelligence (AI) encompasses various types, including Artificial Nar
 - Concerns include the possibility of machines acting in ways that could be harmful or unintended.
 - Ensuring that AI aligns with human values and goals is crucial as technology continues to evolve.
 
+Artificial Intelligence Research Center (SAIRC),Stanford University
+Stanford, CA 94305
 
-Dr.Abdulmajeed Nomman
-[CEO]
-Artificial Intelligence Research Center,Stanford University
-USA,California
+##SAIRC
 
-Contacts:
-ai@stanford.edu
-agi@stanford.edu
-asi@stanford.edu
-drabdulmajeednomman@stanford.edu
-m3nt@hotmail.com
+Dr. Abdulmajeed Nomman
+SAIRC Director
+email: abdulmajeednomman@stanford.edu
+Personal email: m3nt@hotmail.com;
+
+
+
+**contact:**
+
+ai@stanford.edu;
+agi@stanford.edu;
+asi@stanford.edu;
+
+##SAIL:
+
+Prof. Chris Manning
+SAIL Director
+email: manning@stanford.edu
